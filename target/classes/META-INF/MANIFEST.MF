@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: file-store
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rajes
+Implementation-Vendor-Id: org.sample
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/file-store/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
